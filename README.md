@@ -1,2 +1,2 @@
 # TemperatureSensor
-RN2483 with Atmega328p MCU and DHT11
+Working with RN2483, Atmega328p and DHT11 temp sensor.
